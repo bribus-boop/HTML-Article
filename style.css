@@ -1,0 +1,19 @@
+body {
+    font-size: 14pt; 
+}
+
+strong {
+    color: blue;
+}
+
+em {
+    color: lime;
+}
+
+q {
+    color: red;
+}
+
+blockquote {
+    background-color: gainsboro;
+}
